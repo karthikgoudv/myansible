@@ -7,6 +7,6 @@
       state: present
   
   - name: install git
-    apt: git
+    apt:
       name: git
       state: present
