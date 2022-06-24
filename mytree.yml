@@ -1,12 +1,8 @@
 ---
 - hosts: all
   tasks: 
-  - name: install tree on nodes
+  - name: i want to install tree
     apt:
       name: tree
       state: present
   
-  - name: i want to start webserver
-    service:
-      name: apache2
-      state: started 
