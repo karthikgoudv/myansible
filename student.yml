@@ -1,0 +1,24 @@
+---
+- students: 
+  - name: vamshi
+    phone: 8686757762
+    address: 
+     door no: 325
+     street no: 4
+     pincode: 500070
+
+  - name: navya
+    phone: 8801041821
+    address: 
+      door no: 201
+      street no: 2
+      pincode: 500068
+
+  - name: akash
+    phone: 9603003251
+    address: 
+      door no: 405
+      street no: 3
+      pincode: 500072
+    
+
